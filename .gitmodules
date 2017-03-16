@@ -1,0 +1,3 @@
+[submodule "DEV/test"]
+	path = DEV/test
+	url = https://github.com/yvescl/DEV.git
